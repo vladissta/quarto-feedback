@@ -1,0 +1,11 @@
+**/.*
+node_modules/**
+package-lock.json
+test/**
+test-results/**
+scripts/**
+examples/**
+dist/**
+CONTRIBUTING.md
+PUBLISHING.md
+RELEASE-CHECKLIST.md

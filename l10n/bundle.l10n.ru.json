@@ -1,0 +1,16 @@
+{
+  "The feedback list must be numbered consecutively: 1., 2., 3. Fix the list and try again.": "Нумерация списка после блока должна идти подряд: 1., 2., 3. Исправьте её и повторите.",
+  "Place the cursor inside an R, Python, Bash, Sh, or Julia code chunk in a .qmd file.": "Поставьте курсор внутри блока R, Python, Bash, Sh или Julia в файле .qmd.",
+  "Select a nonempty code line rather than a #| chunk option.": "Выберите непустую строку кода, а не настройку блока #|.",
+  "Cannot add a comment after a line-continuation backslash. Select another line.": "Нельзя поставить комментарий после символа продолжения строки \\. Выберите другую строку.",
+  "The annotation number is too large.": "Слишком большой номер аннотации.",
+  "The chunk contains markers without matching feedback items. Restore the 1., 2., 3. list below the chunk and try again.": "В блоке есть маркеры без соответствующих пунктов. Восстановите список 1., 2., 3. после блока и повторите.",
+  "Enter a single line of feedback.": "Введите комментарий одной строкой.",
+  "The selection must be inside a single code chunk.": "Выделение должно находиться внутри одного блока кода.",
+  "The selection contains a line-continuation backslash. Select lines without it.": "В выделении есть символ продолжения строки \\. Выберите строки без него.",
+  "Select nonempty code lines rather than #| chunk options.": "Выберите непустые строки кода, а не настройки блока #|.",
+  "The selected lines have different annotations. Select lines sharing one number or lines without annotations.": "У выделенных строк уже разные комментарии. Выберите строки с одним общим номером или без номера.",
+  "Open a .qmd file in the source editor first.": "Сначала откройте файл .qmd в редакторе исходного текста.",
+  "Use one continuous selection rather than multiple cursors.": "Используйте одно выделение строк, без нескольких курсоров.",
+  "Could not add the feedback. Try the command again.": "Не удалось добавить комментарий. Повторите команду."
+}
